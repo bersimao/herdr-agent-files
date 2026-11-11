@@ -1,0 +1,3 @@
+{
+  "global": { "ctrl-shift-e": "mod.open:open-in-explorer" }
+}
