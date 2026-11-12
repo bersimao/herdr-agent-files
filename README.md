@@ -6,7 +6,7 @@
 
 A [Herdr](https://herdr.dev) desktop mod that lists the files your coding agent read, edited, wrote or mentioned in the current session, and opens any of them in your desktop file manager: **Explorer** on Windows, **Finder** on macOS, your default file manager on Linux.
 
-![The Agent Files panel in Herdr](preview.png)
+![Agent Files in Herdr: the panel fills as the agent works, Reveal opens Explorer, the key closes it](demo.gif)
 
 ## Features
 
